@@ -1,0 +1,94 @@
+﻿@model IEnumerable<Project.Models.DataModels.Product>
+
+@{
+    ViewBag.Title = "Danh sách sản phẩm ";
+    Layout = "~/Areas/Admin/Views/Shared/_LayoutAdmin.cshtml";
+}
+
+<!-- Default box -->
+<div class="box">
+    <div class="box-header with-border">
+        <h3 class="box-title">@ViewBag.Title</h3>
+
+        <div class="box-tools pull-right">
+            <button type="button" class="btn btn-box-tool" data-widget="collapse" data-toggle="tooltip"
+                    title="Collapse">
+                <i class="fa fa-minus"></i>
+            </button>
+            <button type="button" class="btn btn-box-tool" data-widget="remove" data-toggle="tooltip" title="Remove">
+                <i class="fa fa-times"></i>
+            </button>
+        </div>
+    </div>
+    <div class="box-body">
+        <p class="btn btn-default">
+            @Html.ActionLink("Create New", "Create")
+        </p>
+        <table class="table">
+            <tr>
+                <th>
+                    @Html.DisplayNameFor(model => model.ProductId)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.ProductName)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Price)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Images)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.FeatureImages)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.CategoryId)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Status)
+                </th>
+                <th></th>
+            </tr>
+
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.ProductId)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.ProductName)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Price)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Images)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.FeatureImages)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.CategoryId)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Status)
+                    </td>
+                    <td class="btn btn-group">
+                        @Html.ActionLink("EDIT", "Edit", new { id = item.ProductId }) | 
+                        @Html.ActionLink("DELETE", "Delete", new { id = item.ProductId })
+                    </td>
+                </tr>
+            }
+
+        </table>
+
+    </div>
+    <!-- /.box-body -->
+    <div class="box-footer">
+        Footer
+    </div>
+    <!-- /.box-footer-->
+</div>
+<!-- /.box -->
+

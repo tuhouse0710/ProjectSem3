@@ -1,0 +1,188 @@
+C:\Users\Administrator\documents\visual studio 2015\Projects\ProjectB8220\ProjectB8220\bin\ApplicationInsights.config
+C:\Users\Administrator\documents\visual studio 2015\Projects\ProjectB8220\ProjectB8220\bin\roslyn\csc.exe
+C:\Users\Administrator\documents\visual studio 2015\Projects\ProjectB8220\ProjectB8220\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Administrator\documents\visual studio 2015\Projects\ProjectB8220\ProjectB8220\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Administrator\documents\visual studio 2015\Projects\ProjectB8220\ProjectB8220\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Administrator\documents\visual studio 2015\Projects\ProjectB8220\ProjectB8220\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Administrator\documents\visual studio 2015\Projects\ProjectB8220\ProjectB8220\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Administrator\documents\visual studio 2015\Projects\ProjectB8220\ProjectB8220\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Administrator\documents\visual studio 2015\Projects\ProjectB8220\ProjectB8220\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Administrator\documents\visual studio 2015\Projects\ProjectB8220\ProjectB8220\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Administrator\documents\visual studio 2015\Projects\ProjectB8220\ProjectB8220\bin\roslyn\vbc.exe
+C:\Users\Administrator\documents\visual studio 2015\Projects\ProjectB8220\ProjectB8220\bin\roslyn\VBCSCompiler.exe
+C:\Users\Administrator\documents\visual studio 2015\Projects\ProjectB8220\ProjectB8220\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Administrator\documents\visual studio 2015\Projects\ProjectB8220\ProjectB8220\bin\ProjectB8220.dll.config
+C:\Users\Administrator\documents\visual studio 2015\Projects\ProjectB8220\ProjectB8220\bin\ProjectB8220.dll
+C:\Users\Administrator\documents\visual studio 2015\Projects\ProjectB8220\ProjectB8220\bin\ProjectB8220.pdb
+C:\Users\Administrator\documents\visual studio 2015\Projects\ProjectB8220\ProjectB8220\bin\Antlr3.Runtime.dll
+C:\Users\Administrator\documents\visual studio 2015\Projects\ProjectB8220\ProjectB8220\bin\CKFinder.dll
+C:\Users\Administrator\documents\visual studio 2015\Projects\ProjectB8220\ProjectB8220\bin\EntityFramework.dll
+C:\Users\Administrator\documents\visual studio 2015\Projects\ProjectB8220\ProjectB8220\bin\EntityFramework.SqlServer.dll
+C:\Users\Administrator\documents\visual studio 2015\Projects\ProjectB8220\ProjectB8220\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Administrator\documents\visual studio 2015\Projects\ProjectB8220\ProjectB8220\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Administrator\documents\visual studio 2015\Projects\ProjectB8220\ProjectB8220\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Administrator\documents\visual studio 2015\Projects\ProjectB8220\ProjectB8220\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Administrator\documents\visual studio 2015\Projects\ProjectB8220\ProjectB8220\bin\Microsoft.AI.Web.dll
+C:\Users\Administrator\documents\visual studio 2015\Projects\ProjectB8220\ProjectB8220\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Administrator\documents\visual studio 2015\Projects\ProjectB8220\ProjectB8220\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Administrator\documents\visual studio 2015\Projects\ProjectB8220\ProjectB8220\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Administrator\documents\visual studio 2015\Projects\ProjectB8220\ProjectB8220\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Administrator\documents\visual studio 2015\Projects\ProjectB8220\ProjectB8220\bin\Newtonsoft.Json.dll
+C:\Users\Administrator\documents\visual studio 2015\Projects\ProjectB8220\ProjectB8220\bin\Project.BAL.dll
+C:\Users\Administrator\documents\visual studio 2015\Projects\ProjectB8220\ProjectB8220\bin\Project.Models.dll
+C:\Users\Administrator\documents\visual studio 2015\Projects\ProjectB8220\ProjectB8220\bin\System.Web.Helpers.dll
+C:\Users\Administrator\documents\visual studio 2015\Projects\ProjectB8220\ProjectB8220\bin\System.Web.Mvc.dll
+C:\Users\Administrator\documents\visual studio 2015\Projects\ProjectB8220\ProjectB8220\bin\System.Web.Optimization.dll
+C:\Users\Administrator\documents\visual studio 2015\Projects\ProjectB8220\ProjectB8220\bin\System.Web.Razor.dll
+C:\Users\Administrator\documents\visual studio 2015\Projects\ProjectB8220\ProjectB8220\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Administrator\documents\visual studio 2015\Projects\ProjectB8220\ProjectB8220\bin\System.Web.WebPages.dll
+C:\Users\Administrator\documents\visual studio 2015\Projects\ProjectB8220\ProjectB8220\bin\System.Web.WebPages.Razor.dll
+C:\Users\Administrator\documents\visual studio 2015\Projects\ProjectB8220\ProjectB8220\bin\WebGrease.dll
+C:\Users\Administrator\documents\visual studio 2015\Projects\ProjectB8220\ProjectB8220\bin\Project.BAL.pdb
+C:\Users\Administrator\documents\visual studio 2015\Projects\ProjectB8220\ProjectB8220\bin\Project.Models.pdb
+C:\Users\Administrator\documents\visual studio 2015\Projects\ProjectB8220\ProjectB8220\bin\EntityFramework.xml
+C:\Users\Administrator\documents\visual studio 2015\Projects\ProjectB8220\ProjectB8220\bin\EntityFramework.SqlServer.xml
+C:\Users\Administrator\documents\visual studio 2015\Projects\ProjectB8220\ProjectB8220\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Administrator\documents\visual studio 2015\Projects\ProjectB8220\ProjectB8220\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Administrator\documents\visual studio 2015\Projects\ProjectB8220\ProjectB8220\bin\Microsoft.AI.Web.xml
+C:\Users\Administrator\documents\visual studio 2015\Projects\ProjectB8220\ProjectB8220\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Administrator\documents\visual studio 2015\Projects\ProjectB8220\ProjectB8220\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Administrator\documents\visual studio 2015\Projects\ProjectB8220\ProjectB8220\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Administrator\documents\visual studio 2015\Projects\ProjectB8220\ProjectB8220\bin\System.Web.Helpers.xml
+C:\Users\Administrator\documents\visual studio 2015\Projects\ProjectB8220\ProjectB8220\bin\System.Web.Mvc.xml
+C:\Users\Administrator\documents\visual studio 2015\Projects\ProjectB8220\ProjectB8220\bin\System.Web.Optimization.xml
+C:\Users\Administrator\documents\visual studio 2015\Projects\ProjectB8220\ProjectB8220\bin\System.Web.Razor.xml
+C:\Users\Administrator\documents\visual studio 2015\Projects\ProjectB8220\ProjectB8220\bin\System.Web.WebPages.xml
+C:\Users\Administrator\documents\visual studio 2015\Projects\ProjectB8220\ProjectB8220\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Administrator\documents\visual studio 2015\Projects\ProjectB8220\ProjectB8220\bin\System.Web.WebPages.Razor.xml
+C:\Users\Administrator\documents\visual studio 2015\Projects\ProjectB8220\ProjectB8220\bin\Antlr3.Runtime.pdb
+C:\Users\Administrator\documents\visual studio 2015\Projects\ProjectB8220\ProjectB8220\bin\Newtonsoft.Json.xml
+C:\Users\Administrator\documents\visual studio 2015\Projects\ProjectB8220\ProjectB8220\obj\Debug\ProjectB8220.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\documents\visual studio 2015\Projects\ProjectB8220\ProjectB8220\obj\Debug\ProjectB8220.dll
+C:\Users\Administrator\documents\visual studio 2015\Projects\ProjectB8220\ProjectB8220\obj\Debug\ProjectB8220.pdb
+C:\Users\Administrator\Downloads\ProjectB8220\ProjectB8220\bin\ApplicationInsights.config
+C:\Users\Administrator\Downloads\ProjectB8220\ProjectB8220\bin\roslyn\csc.exe
+C:\Users\Administrator\Downloads\ProjectB8220\ProjectB8220\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Administrator\Downloads\ProjectB8220\ProjectB8220\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Administrator\Downloads\ProjectB8220\ProjectB8220\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Administrator\Downloads\ProjectB8220\ProjectB8220\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Administrator\Downloads\ProjectB8220\ProjectB8220\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Administrator\Downloads\ProjectB8220\ProjectB8220\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Administrator\Downloads\ProjectB8220\ProjectB8220\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Administrator\Downloads\ProjectB8220\ProjectB8220\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Administrator\Downloads\ProjectB8220\ProjectB8220\bin\roslyn\vbc.exe
+C:\Users\Administrator\Downloads\ProjectB8220\ProjectB8220\bin\roslyn\VBCSCompiler.exe
+C:\Users\Administrator\Downloads\ProjectB8220\ProjectB8220\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Administrator\Downloads\ProjectB8220\ProjectB8220\bin\ProjectB8220.dll.config
+C:\Users\Administrator\Downloads\ProjectB8220\ProjectB8220\bin\ProjectB8220.dll
+C:\Users\Administrator\Downloads\ProjectB8220\ProjectB8220\bin\ProjectB8220.pdb
+C:\Users\Administrator\Downloads\ProjectB8220\ProjectB8220\bin\Antlr3.Runtime.dll
+C:\Users\Administrator\Downloads\ProjectB8220\ProjectB8220\bin\EntityFramework.dll
+C:\Users\Administrator\Downloads\ProjectB8220\ProjectB8220\bin\EntityFramework.SqlServer.dll
+C:\Users\Administrator\Downloads\ProjectB8220\ProjectB8220\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Administrator\Downloads\ProjectB8220\ProjectB8220\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Administrator\Downloads\ProjectB8220\ProjectB8220\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Administrator\Downloads\ProjectB8220\ProjectB8220\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Administrator\Downloads\ProjectB8220\ProjectB8220\bin\Microsoft.AI.Web.dll
+C:\Users\Administrator\Downloads\ProjectB8220\ProjectB8220\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Administrator\Downloads\ProjectB8220\ProjectB8220\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Administrator\Downloads\ProjectB8220\ProjectB8220\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Administrator\Downloads\ProjectB8220\ProjectB8220\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Administrator\Downloads\ProjectB8220\ProjectB8220\bin\Newtonsoft.Json.dll
+C:\Users\Administrator\Downloads\ProjectB8220\ProjectB8220\bin\Project.BAL.dll
+C:\Users\Administrator\Downloads\ProjectB8220\ProjectB8220\bin\Project.Models.dll
+C:\Users\Administrator\Downloads\ProjectB8220\ProjectB8220\bin\System.Web.Helpers.dll
+C:\Users\Administrator\Downloads\ProjectB8220\ProjectB8220\bin\System.Web.Mvc.dll
+C:\Users\Administrator\Downloads\ProjectB8220\ProjectB8220\bin\System.Web.Optimization.dll
+C:\Users\Administrator\Downloads\ProjectB8220\ProjectB8220\bin\System.Web.Razor.dll
+C:\Users\Administrator\Downloads\ProjectB8220\ProjectB8220\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Administrator\Downloads\ProjectB8220\ProjectB8220\bin\System.Web.WebPages.dll
+C:\Users\Administrator\Downloads\ProjectB8220\ProjectB8220\bin\System.Web.WebPages.Razor.dll
+C:\Users\Administrator\Downloads\ProjectB8220\ProjectB8220\bin\WebGrease.dll
+C:\Users\Administrator\Downloads\ProjectB8220\ProjectB8220\bin\Project.BAL.pdb
+C:\Users\Administrator\Downloads\ProjectB8220\ProjectB8220\bin\Project.Models.pdb
+C:\Users\Administrator\Downloads\ProjectB8220\ProjectB8220\bin\EntityFramework.xml
+C:\Users\Administrator\Downloads\ProjectB8220\ProjectB8220\bin\EntityFramework.SqlServer.xml
+C:\Users\Administrator\Downloads\ProjectB8220\ProjectB8220\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Administrator\Downloads\ProjectB8220\ProjectB8220\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Administrator\Downloads\ProjectB8220\ProjectB8220\bin\Microsoft.AI.Web.xml
+C:\Users\Administrator\Downloads\ProjectB8220\ProjectB8220\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Administrator\Downloads\ProjectB8220\ProjectB8220\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Administrator\Downloads\ProjectB8220\ProjectB8220\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Administrator\Downloads\ProjectB8220\ProjectB8220\bin\System.Web.Helpers.xml
+C:\Users\Administrator\Downloads\ProjectB8220\ProjectB8220\bin\System.Web.Mvc.xml
+C:\Users\Administrator\Downloads\ProjectB8220\ProjectB8220\bin\System.Web.Optimization.xml
+C:\Users\Administrator\Downloads\ProjectB8220\ProjectB8220\bin\System.Web.Razor.xml
+C:\Users\Administrator\Downloads\ProjectB8220\ProjectB8220\bin\System.Web.WebPages.xml
+C:\Users\Administrator\Downloads\ProjectB8220\ProjectB8220\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Administrator\Downloads\ProjectB8220\ProjectB8220\bin\System.Web.WebPages.Razor.xml
+C:\Users\Administrator\Downloads\ProjectB8220\ProjectB8220\bin\Antlr3.Runtime.pdb
+C:\Users\Administrator\Downloads\ProjectB8220\ProjectB8220\bin\Newtonsoft.Json.xml
+C:\Users\Administrator\Downloads\ProjectB8220\ProjectB8220\obj\Debug\ProjectB8220.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Downloads\ProjectB8220\ProjectB8220\obj\Debug\ProjectB8220.dll
+C:\Users\Administrator\Downloads\ProjectB8220\ProjectB8220\obj\Debug\ProjectB8220.pdb
+C:\Users\kienn\Downloads\ProjectB8220\ProjectB8220\bin\ApplicationInsights.config
+C:\Users\kienn\Downloads\ProjectB8220\ProjectB8220\bin\roslyn\csc.exe
+C:\Users\kienn\Downloads\ProjectB8220\ProjectB8220\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\kienn\Downloads\ProjectB8220\ProjectB8220\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\kienn\Downloads\ProjectB8220\ProjectB8220\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\kienn\Downloads\ProjectB8220\ProjectB8220\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\kienn\Downloads\ProjectB8220\ProjectB8220\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\kienn\Downloads\ProjectB8220\ProjectB8220\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\kienn\Downloads\ProjectB8220\ProjectB8220\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\kienn\Downloads\ProjectB8220\ProjectB8220\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\kienn\Downloads\ProjectB8220\ProjectB8220\bin\roslyn\vbc.exe
+C:\Users\kienn\Downloads\ProjectB8220\ProjectB8220\bin\roslyn\VBCSCompiler.exe
+C:\Users\kienn\Downloads\ProjectB8220\ProjectB8220\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\kienn\Downloads\ProjectB8220\ProjectB8220\bin\ProjectB8220.dll.config
+C:\Users\kienn\Downloads\ProjectB8220\ProjectB8220\bin\ProjectB8220.dll
+C:\Users\kienn\Downloads\ProjectB8220\ProjectB8220\bin\ProjectB8220.pdb
+C:\Users\kienn\Downloads\ProjectB8220\ProjectB8220\bin\Antlr3.Runtime.dll
+C:\Users\kienn\Downloads\ProjectB8220\ProjectB8220\bin\EntityFramework.dll
+C:\Users\kienn\Downloads\ProjectB8220\ProjectB8220\bin\EntityFramework.SqlServer.dll
+C:\Users\kienn\Downloads\ProjectB8220\ProjectB8220\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\kienn\Downloads\ProjectB8220\ProjectB8220\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\kienn\Downloads\ProjectB8220\ProjectB8220\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\kienn\Downloads\ProjectB8220\ProjectB8220\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\kienn\Downloads\ProjectB8220\ProjectB8220\bin\Microsoft.AI.Web.dll
+C:\Users\kienn\Downloads\ProjectB8220\ProjectB8220\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\kienn\Downloads\ProjectB8220\ProjectB8220\bin\Microsoft.ApplicationInsights.dll
+C:\Users\kienn\Downloads\ProjectB8220\ProjectB8220\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\kienn\Downloads\ProjectB8220\ProjectB8220\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\kienn\Downloads\ProjectB8220\ProjectB8220\bin\Newtonsoft.Json.dll
+C:\Users\kienn\Downloads\ProjectB8220\ProjectB8220\bin\Project.BAL.dll
+C:\Users\kienn\Downloads\ProjectB8220\ProjectB8220\bin\Project.Models.dll
+C:\Users\kienn\Downloads\ProjectB8220\ProjectB8220\bin\System.Web.Helpers.dll
+C:\Users\kienn\Downloads\ProjectB8220\ProjectB8220\bin\System.Web.Mvc.dll
+C:\Users\kienn\Downloads\ProjectB8220\ProjectB8220\bin\System.Web.Optimization.dll
+C:\Users\kienn\Downloads\ProjectB8220\ProjectB8220\bin\System.Web.Razor.dll
+C:\Users\kienn\Downloads\ProjectB8220\ProjectB8220\bin\System.Web.WebPages.Deployment.dll
+C:\Users\kienn\Downloads\ProjectB8220\ProjectB8220\bin\System.Web.WebPages.dll
+C:\Users\kienn\Downloads\ProjectB8220\ProjectB8220\bin\System.Web.WebPages.Razor.dll
+C:\Users\kienn\Downloads\ProjectB8220\ProjectB8220\bin\WebGrease.dll
+C:\Users\kienn\Downloads\ProjectB8220\ProjectB8220\bin\Project.BAL.pdb
+C:\Users\kienn\Downloads\ProjectB8220\ProjectB8220\bin\Project.BAL.dll.config
+C:\Users\kienn\Downloads\ProjectB8220\ProjectB8220\bin\Project.Models.pdb
+C:\Users\kienn\Downloads\ProjectB8220\ProjectB8220\bin\Project.Models.dll.config
+C:\Users\kienn\Downloads\ProjectB8220\ProjectB8220\bin\EntityFramework.xml
+C:\Users\kienn\Downloads\ProjectB8220\ProjectB8220\bin\EntityFramework.SqlServer.xml
+C:\Users\kienn\Downloads\ProjectB8220\ProjectB8220\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\kienn\Downloads\ProjectB8220\ProjectB8220\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\kienn\Downloads\ProjectB8220\ProjectB8220\bin\Microsoft.AI.Web.xml
+C:\Users\kienn\Downloads\ProjectB8220\ProjectB8220\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\kienn\Downloads\ProjectB8220\ProjectB8220\bin\Microsoft.ApplicationInsights.xml
+C:\Users\kienn\Downloads\ProjectB8220\ProjectB8220\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\kienn\Downloads\ProjectB8220\ProjectB8220\bin\System.Web.Helpers.xml
+C:\Users\kienn\Downloads\ProjectB8220\ProjectB8220\bin\System.Web.Mvc.xml
+C:\Users\kienn\Downloads\ProjectB8220\ProjectB8220\bin\System.Web.Optimization.xml
+C:\Users\kienn\Downloads\ProjectB8220\ProjectB8220\bin\System.Web.Razor.xml
+C:\Users\kienn\Downloads\ProjectB8220\ProjectB8220\bin\System.Web.WebPages.xml
+C:\Users\kienn\Downloads\ProjectB8220\ProjectB8220\bin\System.Web.WebPages.Deployment.xml
+C:\Users\kienn\Downloads\ProjectB8220\ProjectB8220\bin\System.Web.WebPages.Razor.xml
+C:\Users\kienn\Downloads\ProjectB8220\ProjectB8220\bin\Antlr3.Runtime.pdb
+C:\Users\kienn\Downloads\ProjectB8220\ProjectB8220\bin\Newtonsoft.Json.xml
+C:\Users\kienn\Downloads\ProjectB8220\ProjectB8220\obj\Debug\ProjectB8220.csprojAssemblyReference.cache
+C:\Users\kienn\Downloads\ProjectB8220\ProjectB8220\obj\Debug\ProjectB8220.csproj.CoreCompileInputs.cache
+C:\Users\kienn\Downloads\ProjectB8220\ProjectB8220\obj\Debug\ProjectB8220.csproj.CopyComplete
+C:\Users\kienn\Downloads\ProjectB8220\ProjectB8220\obj\Debug\ProjectB8220.dll
+C:\Users\kienn\Downloads\ProjectB8220\ProjectB8220\obj\Debug\ProjectB8220.pdb

@@ -1,0 +1,32 @@
+C:\Users\Administrator\documents\visual studio 2015\Projects\ProjectB8220\Project.Models\bin\Debug\Project.Models.dll.config
+C:\Users\Administrator\documents\visual studio 2015\Projects\ProjectB8220\Project.Models\bin\Debug\Project.Models.dll
+C:\Users\Administrator\documents\visual studio 2015\Projects\ProjectB8220\Project.Models\bin\Debug\Project.Models.pdb
+C:\Users\Administrator\documents\visual studio 2015\Projects\ProjectB8220\Project.Models\bin\Debug\EntityFramework.dll
+C:\Users\Administrator\documents\visual studio 2015\Projects\ProjectB8220\Project.Models\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Administrator\documents\visual studio 2015\Projects\ProjectB8220\Project.Models\bin\Debug\EntityFramework.xml
+C:\Users\Administrator\documents\visual studio 2015\Projects\ProjectB8220\Project.Models\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Administrator\documents\visual studio 2015\Projects\ProjectB8220\Project.Models\obj\Debug\Project.Models.dll
+C:\Users\Administrator\documents\visual studio 2015\Projects\ProjectB8220\Project.Models\obj\Debug\Project.Models.pdb
+C:\Users\Administrator\documents\visual studio 2015\Projects\ProjectB8220\Project.Models\obj\Debug\Project.Models.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Downloads\ProjectB8220\Project.Models\bin\Debug\Project.Models.dll.config
+C:\Users\Administrator\Downloads\ProjectB8220\Project.Models\bin\Debug\Project.Models.dll
+C:\Users\Administrator\Downloads\ProjectB8220\Project.Models\bin\Debug\Project.Models.pdb
+C:\Users\Administrator\Downloads\ProjectB8220\Project.Models\bin\Debug\EntityFramework.dll
+C:\Users\Administrator\Downloads\ProjectB8220\Project.Models\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Administrator\Downloads\ProjectB8220\Project.Models\bin\Debug\EntityFramework.xml
+C:\Users\Administrator\Downloads\ProjectB8220\Project.Models\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Administrator\Downloads\ProjectB8220\Project.Models\obj\Debug\Project.Models.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Downloads\ProjectB8220\Project.Models\obj\Debug\Project.Models.dll
+C:\Users\Administrator\Downloads\ProjectB8220\Project.Models\obj\Debug\Project.Models.pdb
+C:\Users\kienn\Downloads\ProjectB8220\Project.Models\bin\Debug\Project.Models.dll.config
+C:\Users\kienn\Downloads\ProjectB8220\Project.Models\bin\Debug\Project.Models.dll
+C:\Users\kienn\Downloads\ProjectB8220\Project.Models\bin\Debug\Project.Models.pdb
+C:\Users\kienn\Downloads\ProjectB8220\Project.Models\bin\Debug\EntityFramework.dll
+C:\Users\kienn\Downloads\ProjectB8220\Project.Models\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\kienn\Downloads\ProjectB8220\Project.Models\bin\Debug\EntityFramework.xml
+C:\Users\kienn\Downloads\ProjectB8220\Project.Models\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\kienn\Downloads\ProjectB8220\Project.Models\obj\Debug\Project.Models.csprojAssemblyReference.cache
+C:\Users\kienn\Downloads\ProjectB8220\Project.Models\obj\Debug\Project.Models.csproj.CoreCompileInputs.cache
+C:\Users\kienn\Downloads\ProjectB8220\Project.Models\obj\Debug\Project.Models.csproj.CopyComplete
+C:\Users\kienn\Downloads\ProjectB8220\Project.Models\obj\Debug\Project.Models.dll
+C:\Users\kienn\Downloads\ProjectB8220\Project.Models\obj\Debug\Project.Models.pdb

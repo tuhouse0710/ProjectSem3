@@ -1,0 +1,39 @@
+C:\Users\Administrator\documents\visual studio 2015\Projects\ProjectB8220\Project.BAL\bin\Debug\Project.BAL.dll.config
+C:\Users\Administrator\documents\visual studio 2015\Projects\ProjectB8220\Project.BAL\bin\Debug\Project.BAL.dll
+C:\Users\Administrator\documents\visual studio 2015\Projects\ProjectB8220\Project.BAL\bin\Debug\Project.BAL.pdb
+C:\Users\Administrator\documents\visual studio 2015\Projects\ProjectB8220\Project.BAL\bin\Debug\EntityFramework.dll
+C:\Users\Administrator\documents\visual studio 2015\Projects\ProjectB8220\Project.BAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Administrator\documents\visual studio 2015\Projects\ProjectB8220\Project.BAL\bin\Debug\Project.Models.dll
+C:\Users\Administrator\documents\visual studio 2015\Projects\ProjectB8220\Project.BAL\bin\Debug\Project.Models.pdb
+C:\Users\Administrator\documents\visual studio 2015\Projects\ProjectB8220\Project.BAL\bin\Debug\EntityFramework.xml
+C:\Users\Administrator\documents\visual studio 2015\Projects\ProjectB8220\Project.BAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Administrator\documents\visual studio 2015\Projects\ProjectB8220\Project.BAL\obj\Debug\Project.BAL.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\documents\visual studio 2015\Projects\ProjectB8220\Project.BAL\obj\Debug\Project.BAL.dll
+C:\Users\Administrator\documents\visual studio 2015\Projects\ProjectB8220\Project.BAL\obj\Debug\Project.BAL.pdb
+C:\Users\Administrator\Downloads\ProjectB8220\Project.BAL\bin\Debug\Project.BAL.dll.config
+C:\Users\Administrator\Downloads\ProjectB8220\Project.BAL\bin\Debug\Project.BAL.dll
+C:\Users\Administrator\Downloads\ProjectB8220\Project.BAL\bin\Debug\Project.BAL.pdb
+C:\Users\Administrator\Downloads\ProjectB8220\Project.BAL\bin\Debug\EntityFramework.dll
+C:\Users\Administrator\Downloads\ProjectB8220\Project.BAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Administrator\Downloads\ProjectB8220\Project.BAL\bin\Debug\Project.Models.dll
+C:\Users\Administrator\Downloads\ProjectB8220\Project.BAL\bin\Debug\Project.Models.pdb
+C:\Users\Administrator\Downloads\ProjectB8220\Project.BAL\bin\Debug\EntityFramework.xml
+C:\Users\Administrator\Downloads\ProjectB8220\Project.BAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Administrator\Downloads\ProjectB8220\Project.BAL\obj\Debug\Project.BAL.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Downloads\ProjectB8220\Project.BAL\obj\Debug\Project.BAL.dll
+C:\Users\Administrator\Downloads\ProjectB8220\Project.BAL\obj\Debug\Project.BAL.pdb
+C:\Users\kienn\Downloads\ProjectB8220\Project.BAL\bin\Debug\Project.BAL.dll.config
+C:\Users\kienn\Downloads\ProjectB8220\Project.BAL\bin\Debug\Project.BAL.dll
+C:\Users\kienn\Downloads\ProjectB8220\Project.BAL\bin\Debug\Project.BAL.pdb
+C:\Users\kienn\Downloads\ProjectB8220\Project.BAL\bin\Debug\EntityFramework.dll
+C:\Users\kienn\Downloads\ProjectB8220\Project.BAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\kienn\Downloads\ProjectB8220\Project.BAL\bin\Debug\Project.Models.dll
+C:\Users\kienn\Downloads\ProjectB8220\Project.BAL\bin\Debug\Project.Models.pdb
+C:\Users\kienn\Downloads\ProjectB8220\Project.BAL\bin\Debug\Project.Models.dll.config
+C:\Users\kienn\Downloads\ProjectB8220\Project.BAL\bin\Debug\EntityFramework.xml
+C:\Users\kienn\Downloads\ProjectB8220\Project.BAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\kienn\Downloads\ProjectB8220\Project.BAL\obj\Debug\Project.BAL.csprojAssemblyReference.cache
+C:\Users\kienn\Downloads\ProjectB8220\Project.BAL\obj\Debug\Project.BAL.csproj.CoreCompileInputs.cache
+C:\Users\kienn\Downloads\ProjectB8220\Project.BAL\obj\Debug\Project.BAL.csproj.CopyComplete
+C:\Users\kienn\Downloads\ProjectB8220\Project.BAL\obj\Debug\Project.BAL.dll
+C:\Users\kienn\Downloads\ProjectB8220\Project.BAL\obj\Debug\Project.BAL.pdb

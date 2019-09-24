@@ -1,0 +1,127 @@
+﻿@model IEnumerable<Project.Models.DataModels.Group>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Areas/Admin/Views/Shared/_LayoutAdmin.cshtml";
+}
+<style>
+    .item_group.active > td {
+        background: #4cff00 !important;
+    }
+</style>
+<!-- Default box -->
+<div class="box">
+    <div class="box-header with-border">
+        <h3 class="box-title">@ViewBag.Title</h3>
+
+        <div class="box-tools pull-right">
+            <button type="button" class="btn btn-box-tool" data-widget="collapse" data-toggle="tooltip"
+                    title="Collapse">
+                <i class="fa fa-minus"></i>
+            </button>
+            <button type="button" class="btn btn-box-tool" data-widget="remove" data-toggle="tooltip" title="Remove">
+                <i class="fa fa-times"></i>
+            </button>
+        </div>
+    </div>
+    <div class="box-body">
+        <div class="row">
+            <div class="col-md-3">
+                <table class="table table-bordered">
+                    <tr class="bg-primary">
+                        <th>
+                            @Html.DisplayNameFor(model => model.GroupName)
+                        </th>
+                    </tr>
+
+                    @foreach (var item in Model)
+                    {
+                        <tr data-groupid="@item.GroupId" class="item_group">
+                            <td>
+                                @Html.DisplayFor(modelitem => item.GroupName)
+                            </td>
+                        </tr>
+                    }
+
+                </table>
+            </div>
+            <div class="col-md-9">
+               <table class="table table-bordered">
+                   <tr class="bg-primary">
+                       <th>Nghiệp vụ</th>
+                   @foreach (var item in ViewBag.Roles)
+                   {
+                       
+                        <th class="text-center">@item.RoleName</th>
+                      
+                   }
+                    </tr>
+                   @foreach (var item in ViewBag.Businesses)
+                   {
+                       <tr>
+                           <td>
+                               @item.BusinessName 
+                           </td>
+                           @foreach (var r in ViewBag.Roles)
+                           {
+                               <td class="text-center">
+                                   <input class="item_role" type="checkbox" data-business="@item.BusinessId" value="@r.RoleId"/>
+                               </td>
+                           }
+                       </tr>
+                   }
+               </table>
+            </div>
+        </div>
+
+    </div>
+    <!-- /.box-body -->
+    <div class="box-footer">
+        Footer
+    </div>
+    <!-- /.box-footer-->
+</div>
+<!-- /.box -->
+@section scripts{
+    <script>
+        $(function () {
+            $(".item_group").click(function () {
+                $(this).addClass("active").siblings().removeClass("active");
+                var id = $(this).data("groupid");
+                $.ajax({
+                    Type:"GET",
+                    url: "/GroupRoles/Get/" + id,
+                    success: function (res) {
+                        $(".item_role").prop("checked", false);
+                        $.each(res, function () {
+                            $(".item_role[value='" + this.RoleId + "'][data-business='" + this.BusinessId + "']").prop("checked", true);
+                        })
+                    }
+                })
+                }) 
+            })
+            //Thực hiện phân quyền cho group đang được chọn và kiểm tra xem group đã được active hay chưa
+            $(".item_role").click(function () {
+                var group = $(".item_group.active");
+                if (group.length > 0) {
+                    var group_role = {
+                        GroupId: group.data("groupid"),
+                        RoleId: $(this).val(),
+                        BusinessId: $(this).data("business")
+                    };
+                    console.log(group_role);
+                    $.ajax({
+                        Type: "POST",
+                        url: "/GroupRoles/UpdatePermison/",
+                        data: group_role,
+                        success: function (res) {
+                            alert(res.Message);
+                        }
+                    })
+                } else {
+                   alert("Chọn nhóm");
+                }
+                
+            })
+    </script>
+}
